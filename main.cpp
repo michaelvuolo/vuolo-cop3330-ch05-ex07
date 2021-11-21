@@ -21,6 +21,8 @@ int main() {
 
     // calculate and display root(s) (if real)
     calcRoots(a, b, c);
+
+    return 0;
 }
 
 void calcRoots(double a, double b, double c) {
